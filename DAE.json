@@ -1,0 +1,194 @@
+{
+  "Entities": [
+    {
+      "ID": "f6650da8-41ad-4bc7-bd4d-8b55f05d9f71",
+      "Name": "Postazione con defibrillatore DAE - Desio",
+      "Note": "Opendata Comune di Desio",
+      "Addresses": [
+        {
+          "ID": "fab7867c-87c8-42b0-ad8e-efc7b366b93c",
+          "Desc": "ATRIO URP PALAZZO COMUNALE ",
+          "Value": " PIAZZA GIOVANNI PAOLO II ",
+          "Latitude": 45.620388,
+          "Longitude": 9.208536
+        },
+        {
+          "ID": "9705d13d-9f4d-4f1b-8403-814c3f9f0fda",
+          "Desc": "CENTRO RICREATIVO \" IL GIRASOLE\"",
+          "Value": " VIA  S.PIETRO 14",
+          "Latitude": 45.618636,
+          "Longitude": 9.210455
+        },
+        {
+          "ID": "b150fdc7-0df9-4eee-b69d-d5dc2f1834c5",
+          "Desc": "CENTRO SPORTIVO COMUNALE ",
+          "Value": " VIA AGNESI    ",
+          "Latitude": 45.611574,
+          "Longitude": 9.193684
+        },
+        {
+          "ID": "5b230a9b-94f5-420e-b22b-1b348c624690",
+          "Desc": "CIMITERO COMUNALE MONUMENTALE ",
+          "Value": " VIALE  RIMEMBRANZE  1",
+          "Latitude": 45.62181,
+          "Longitude": 9.20369
+        },
+        {
+          "ID": "676b9545-4fe6-42ab-b817-783c676c4610",
+          "Desc": "INTERNO BOCCIOFILA PARCO DI DESIO",
+          "Value": " VIALE  CAVALIERI DI VITTORIO VENETO  ",
+          "Latitude": 45.61683,
+          "Longitude": 9.2165
+        },
+        {
+          "ID": "69df12e0-b631-42eb-9064-78247c2463ce",
+          "Desc": "INTERNO PALADESIO ",
+          "Value": " LARGO  ATLETI AZZURRI D'ITALIA  ",
+          "Latitude": 45.613304,
+          "Longitude": 9.193077
+        },
+        {
+          "ID": "cd3f2956-637d-4f7a-94b2-dfec33eb0a35",
+          "Desc": "INTERNO PARCO COMUNALE ",
+          "Value": " PIAZZALE PARCO  ",
+          "Latitude": 45.614392,
+          "Longitude": 9.216209
+        },
+        {
+          "ID": "f974e7bf-c118-482f-b770-028664cf3870",
+          "Desc": "NUOVO CIMITERO COMUNALE",
+          "Value": " PIAZZALE DIVINA MISERICORDIA ",
+          "Latitude": 45.604717,
+          "Longitude": 9.209982
+        },
+        {
+          "ID": "36aa5d04-47c8-492a-a196-a1a1ae007836",
+          "Desc": "ORATORIO B.V.I. ",
+          "Value": " VIA GRANDI  31",
+          "Latitude": 45.615004,
+          "Longitude": 9.208094
+        },
+        {
+          "ID": "cdee17bb-b632-4aaf-a29b-ebac9b90cde1",
+          "Desc": "PARROCCHIA / ORATORIO S.GIOVANNI BATTISTA ",
+          "Value": " VIA DI VITTORIO  18",
+          "Latitude": 45.618451,
+          "Longitude": 9.193961
+        },
+        {
+          "ID": "027774a3-cfdb-422f-a580-76511d7eea7d",
+          "Desc": "PARROCCHIA / ORATORIO S.PIO X",
+          "Value": " VIA GARIBALDI  288",
+          "Latitude": 45.607928,
+          "Longitude": 9.203218
+        },
+        {
+          "ID": "66738b2c-d073-40e7-a3a3-48772924bbd7",
+          "Desc": "PARROCCHIA / ORATORIO SS.PIETRO E PAOLO ",
+          "Value": " VIA  SANTA CATERINA 9",
+          "Latitude": 45.626235,
+          "Longitude": 9.203488
+        },
+        {
+          "ID": "ddad85da-45cf-4b6f-8015-5bb35dc0512b",
+          "Desc": "PARROCCHIA S. GIORGIO ",
+          "Value": " VIA S. APOLLINARE  4",
+          "Latitude": 45.620644,
+          "Longitude": 9.231016
+        },
+        {
+          "ID": "c9e68f90-ae42-4c07-b4cc-cf6d88860ec8",
+          "Desc": "PIAZZA CONCILIAZIONE",
+          "Value": " PIAZZA CONCILIAZIONE ",
+          "Latitude": 45.617391,
+          "Longitude": 9.207367
+        },
+        {
+          "ID": "a10399f6-7064-4f57-b17c-fdab16f635e6",
+          "Desc": "SCUOLA MEDIA \"G.RODARI\"",
+          "Value": " PIAZZA NENNI 1",
+          "Latitude": 45.61191,
+          "Longitude": 9.20717
+        },
+        {
+          "ID": "b6dd6a2d-9908-49b2-8e19-6f7220612e17",
+          "Desc": "SCUOLA MEDIA \"L.PIROTTA\"",
+          "Value": " VIA STADIO 13",
+          "Latitude": 45.61408,
+          "Longitude": 9.19906
+        },
+        {
+          "ID": "3c3230c9-f3e3-4b88-b369-6ff554e72202",
+          "Desc": "SCUOLE ELEMENTARI ",
+          "Value": " VIA  TOLSTOJ 1",
+          "Latitude": 45.627866,
+          "Longitude": 9.203195
+        },
+        {
+          "ID": "5a9dcde3-89eb-4959-83b7-213029d519c6",
+          "Desc": "SCUOLE ELEMENTARI ",
+          "Value": " VIA  DIAZ 7",
+          "Latitude": 45.618944,
+          "Longitude": 9.203303
+        },
+        {
+          "ID": "dfbce26e-b8dd-457f-8b75-3389873af69c",
+          "Desc": "SCUOLE ELEMENTARI",
+          "Value": " VIA  AGNESI  10",
+          "Latitude": 45.612646,
+          "Longitude": 9.199092
+        },
+        {
+          "ID": "ed2de139-cabf-4952-b1e8-37272998e681",
+          "Desc": "SCUOLE ELEMENTARI ",
+          "Value": " VIA DOLOMITI  50",
+          "Latitude": 45.621031,
+          "Longitude": 9.186354
+        },
+        {
+          "ID": "7bef12fb-167f-4a53-b1ef-907ceaf8e19a",
+          "Desc": "SCUOLE ELEMENTARI ",
+          "Value": " VIA  JACOPO DAL VERME  ",
+          "Latitude": 45.614076,
+          "Longitude": 9.21018
+        },
+        {
+          "ID": "b86a3b19-0416-444f-8b63-490cee4a8f45",
+          "Desc": "SCUOLE ELEMENTARI S.PERTINI ",
+          "Value": " VIA MILANO  345",
+          "Latitude": 45.627484,
+          "Longitude": 9.20547
+        },
+        {
+          "ID": "3eae634d-2a47-4aec-ac35-56fbdaa0e4a2",
+          "Desc": "SOCIETA' BOCCIOFILA AURORA ",
+          "Value": " VIA GARIBALDI  257",
+          "Latitude": 45.612075,
+          "Longitude": 9.205036
+        },
+        {
+          "ID": "c3b0e556-c20e-4238-a965-b1d9b0897254",
+          "Desc": "SOCIETAâ€™ DI SCHERMA ",
+          "Value": " VIA SANTA CATERINA 13",
+          "Latitude": 45.626687,
+          "Longitude": 9.205079
+        }
+      ],
+      "Cities": [
+        {
+          "ID": "f3505bc4-aea4-4583-b7b6-2aa2002c7e93",
+          "Value": "Desio"
+        }
+      ],
+      "Tags": [
+        {
+          "ID": "e814daef-0bb3-458f-8dd7-9c07f5d65282",
+          "Value": "Sanitaria"
+        }
+      ]
+    }
+  ],
+  "Name": "DAE",
+  "Desc": "Dataset contentente posizione defibrillatori",
+  "ID": "34490446-f4c7-4e95-8ce8-0a27957c230c"
+}
